@@ -39,4 +39,4 @@ By the end of this lab you should be able to explain how and why these cookies a
 #### Resources
 * [Cookies, Sessions, & Flash Messages](http://www.theodinproject.com/ruby-on-rails/sessions-cookies-and-authentication)
 * [Rails Guides: Securing Sessions](http://guides.rubyonrails.org/security.html)
-* [Flash Messages](http://api.rubyonrails.org/classes/ActionDispatch/Flash.html)
+* [Flash Messages](http://api.rubyonrails.org/classes/ActionDispatch/Flash.html
